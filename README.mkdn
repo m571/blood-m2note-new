@@ -1,2 +1,2 @@
-# Blood Kernel
+# CCC Kernel
 ==============
